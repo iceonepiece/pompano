@@ -1,0 +1,12 @@
+{
+  "name": "pompano",
+  "version": "1.0.0",
+  "description": "API Testing With Less Effort",
+  "main": "index.js",
+  "repository": "https://github.com/iceonepiece/pompano.git",
+  "author": "iceonepiece <iceonepiece@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^3.8.2"
+  }
+}
